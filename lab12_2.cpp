@@ -23,3 +23,17 @@ int main()
 }
 
 // Write definition of updateImage() and showImage() here
+void showImage(const bool x[][M])
+{
+    for(int i=0;i<=M+1;i++)
+        {
+            cout <<"-";
+        }
+}    
+
+
+
+
+
+
+
